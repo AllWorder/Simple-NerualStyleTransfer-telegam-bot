@@ -1,2 +1,8 @@
 # Simple-NerualStyleTransfer-telegam-bot
-Telegram bot, which makes style transfer from one photo to the other
+
+## Описание
+Телеграм-бот, который переносит стиль одного изображения на другое
+## Требования
+- Python 3
+- PyTorch
+- telebot
